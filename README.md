@@ -42,6 +42,11 @@ Check the `version` of each mod. It is continuously changing, so your mods will 
 		"scenarioId": "{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf",
 		"maxPlayers": 30,
 		"visible": true,
+		"crossPlatform": true,
+   		 "supportedPlatforms": [
+			"PLATFORM_PC",
+      			"PLATFORM_XBL"
+		],
 		"gameProperties": {
 			"serverMaxViewDistance": 2500,
 			"serverMinGrassDistance": 50,
