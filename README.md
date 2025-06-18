@@ -55,7 +55,7 @@ This is important for the scenarioId section in the json.
         "VONDisableDirectSpeechUI": false,
         "VONCanTransmitCrossFaction": false,
         "missionHeader": {
-          "m_sName": "Test PVE",
+          "m_sName": "Conflict PVE",
           "m_eEditableGameFlags": 6,
           "m_eDefaultGameFlags": 6,
           "other": "values"
