@@ -11,8 +11,7 @@ This README hold the different code you will need to fill out the different .jso
 This is Gramps Conflict PVER emixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
 This is important for the scenarioId section in the json. 
 
-## Most important
-Check the `version` of each mod. It is continuously changing, so your mods will quickly become outdated. The `version` on the mods below are going to be very old, check them against the ones in your game.
+
 
 ## conflictPVEvanilla.json
 
@@ -94,53 +93,30 @@ Check the `version` of each mod. It is continuously changing, so your mods will 
         },
         {
             "modId": "595F2BF2F44836FB",
-            "name": "RHS - Status Quo",
-            "version": "0.12.4487"
-        },
+            "name": "RHS - Status Quo"
         {
             "modId": "64900A5A31F5DCB5",
-            "name": "MRZR",
-            "version": "1.0.5"
-        },
-        {
-            "modId": "64D0C6A0FA2FD412",
-            "name": "WillowBoard",
-            "version": "1.0.9"
+            "name": "MRZR"
         },
         {
             "modId": "6518C209A48D4991",
-            "name": "Medevac Huey",
-            "version": "0.5.4"
-        },
-        {
-            "modId": "647CB65DADE9ECF6",
-            "name": "Conflict Domination PVE",
-            "version": "1.0.24"
+            "name": "Medevac Huey"
         },
         {
             "modId": "6214CEA5DA92BFF3",
-            "name": "ACE Medical Prototypes",
-            "version": "0.1.19"
+            "name": "ACE Medical Prototypes"
         },
         {
             "modId": "6556DAA535FB5BEE",
-            "name": "WCS AH64 Helipad Edit",
-            "version": "1.0.2"
+            "name": "WCS AH64 Helipad Edit"
         },
         {
             "modId": "629543EC64631D3D",
-            "name": "Modern RUS",
-            "version": "0.0.3"
+            "name": "Modern RUS"
         },
         {
             "modId": "61B514B96692C049",
-            "name": "ConflictPVERemixedVanilla2.0",
-            "version": "2.3.11"
-        },
-        {
-            "modId": "6152CB0BD0684837",
-            "name": "WCS_Clothing",
-            "version": "3.0.0"
+            "name": "ConflictPVERemixedVanilla2.0"
         }
       ]
     },
