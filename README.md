@@ -135,7 +135,7 @@ This is important for the scenarioId section in the json.
       "playerSaveTime": 120,
       "lobbyPlayerSynchronise": true,
       "joinQueue": {
-        "maxSize":50
+        "maxSize": 50
       },
       "disableNavmeshStreaming": [
         "Soldiers",
