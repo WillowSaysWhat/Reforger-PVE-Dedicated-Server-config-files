@@ -7,12 +7,6 @@ This README hold the different code you will need to fill out the different .jso
 * [Blank Server.json](#Blank-server.json)
 * [ConflictPVEvanilla.json](#conflictpvevanillajson)
 
-
-## NOTE
-
-This is Gramps Conflict PVER emixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
-This is important for the scenarioId section in the json. 
-
 ## Blank Server.json
 
 ```json
@@ -59,6 +53,11 @@ This is important for the scenarioId section in the json.
 ```
 
 ## conflictPVEvanilla.json
+
+## NOTE
+
+This is Gramps Conflict PVER emixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
+This is important for the scenarioId section in the json. 
 
 ```json
 {
