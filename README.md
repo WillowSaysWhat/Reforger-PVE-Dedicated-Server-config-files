@@ -4,14 +4,59 @@ Congratulations, you are about to make your own dedicated Arma Reforger PVE serv
 
 This README hold the different code you will need to fill out the different .json files.
 
+* [Blank Server.jason](#Blank_server.json)
 * [ConflictPVEvanilla.json](#conflictpvevanillajson)
+
 
 ## NOTE
 
 This is Gramps Conflict PVER emixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
 This is important for the scenarioId section in the json. 
 
+## Blank Server.json
 
+```json
+{
+	"bindAddress": "",
+	"bindPort": 0,
+	"publicAddress": "",
+	"publicPort": 0,
+	"a2s": {
+		"address": "",
+		"port": 0
+	},
+	"rcon": {
+		"address": "",
+		"port": 0,
+		"password": "",
+		"permission": "monitor",
+		"blacklist": [],
+		"whitelist": []
+	},
+	"game": {
+		"name": "",
+		"password": "",
+		"passwordAdmin": "",
+		"admins" : [],
+		"scenarioId": "",
+		"maxPlayers": 0,
+		"visible": true,
+		"gameProperties": {
+			"serverMaxViewDistance": 1600,
+			"serverMinGrassDistance": 0,
+			"networkViewDistance": 1500,
+			"disableThirdPerson": false,
+			"fastValidation": true,
+			"battlEye": true,
+			"VONDisableUI": false,
+			"VONDisableDirectSpeechUI": false,
+			"VONCanTransmitCrossFaction": false
+		},
+		"mods": []
+	}
+}
+
+```
 
 ## conflictPVEvanilla.json
 
