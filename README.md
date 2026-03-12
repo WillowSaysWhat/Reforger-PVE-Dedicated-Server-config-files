@@ -4,7 +4,7 @@ Congratulations, you are about to make your own dedicated Arma Reforger PVE serv
 
 This README hold the different code you will need to fill out the different .json files.
 
-* [Blank Server.jason](#Blank_server.json)
+* [Blank Server.json](#Blank-server.json)
 * [ConflictPVEvanilla.json](#conflictpvevanillajson)
 
 
