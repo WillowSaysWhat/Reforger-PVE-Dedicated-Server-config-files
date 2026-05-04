@@ -57,7 +57,7 @@ This README hold the different code you will need to fill out the different .jso
 
 ## NOTE
 
-This is Gramps Conflict PVER emixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
+This is Gramps Conflict PVE Remixed Vanilla 2.0 gamemode. it is a mod found in the workshop. The mode id number and mod location is `{6DD58790690E9D29}Missions/ConflictPVERemixedVanilla2_US.conf`
 This is important for the scenarioId section in the json. 
 
 ```json
